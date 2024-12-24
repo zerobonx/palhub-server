@@ -6,7 +6,7 @@
 # set the compose version information, shouldnt be required 
 # if you have the latest versions of docker/docker-compose <3
 # 
-version: '3.9' 
+
 
 # 
 # defines the actual compose configuration to use 
